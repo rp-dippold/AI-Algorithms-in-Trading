@@ -9,7 +9,7 @@ The code of these projects was tested on Linux (Ubuntu 20.04). To get the code r
 2. `git clone https://github.com/rp-dippold/AI-Algorithms-in-Trading.git`
 
 ### Setting up the Python environment
-#### Environments for Project 5, 7 and 8
+#### Environment for Projects 5, 7 and 8
 The Python environment created by the following steps works for projects 5, 7 and 8.
 
 Enter the following commands in a bash terminal:
