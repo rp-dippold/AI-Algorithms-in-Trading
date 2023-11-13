@@ -12,7 +12,7 @@ The code of these projects was tested on Linux (Ubuntu 20.04). To get the code r
 The Python environment created by the following steps works for every project.
 
 Enter the following commands in a bash terminal:
-1. `cd Quantitative-Trading`
+1. `cd AI-Algorithms-in-Trading`
 2. `conda create --name aialgotrading python=3.6.3 -c conda-forge`
 3. `conda activate aialgotrading`
 4. `python -m pip install --upgrade pip` 
