@@ -9,7 +9,7 @@ The code of these projects was tested on Linux (Ubuntu 20.04). To get the code r
 2. `git clone https://github.com/rp-dippold/AI-Algorithms-in-Trading.git`
 
 ### Setting up the Python environment
-## Environments for Project 5, 7 and 8
+#### Environments for Project 5, 7 and 8
 The Python environment created by the following steps works for projects 5, 7 and 8.
 
 Enter the following commands in a bash terminal:
@@ -21,7 +21,7 @@ Enter the following commands in a bash terminal:
 6. `python -m pip install -r requirements.txt`
 7. `python -m ipykernel install --user --name aialgotrading --display-name "ai-algo-trading"`
 
-## Environment for Project 6
+#### Environment for Project 6
 1. ...
 9. Install Pytorch:
     * [CPU]: `pip install torch torchvision torchaudio`
