@@ -1,4 +1,6 @@
 filename,filesize,header
-raw_fillings_by_ticker_1.zip,67000000,False
-raw_fillings_by_ticker_2.zip,67000000,False
-raw_fillings_by_ticker_3.zip,3593523,False
+raw_fillings_by_ticker_1.zip,33000000,False
+raw_fillings_by_ticker_2.zip,33000000,False
+raw_fillings_by_ticker_3.zip,33000000,False
+raw_fillings_by_ticker_4.zip,33000000,False
+raw_fillings_by_ticker_5.zip,5593523,False
