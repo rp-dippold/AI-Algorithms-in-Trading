@@ -22,7 +22,7 @@ Enter the following commands in a bash terminal:
 7. `python -m ipykernel install --user --name aialgotrading --display-name "ai-algo-trading"`
 
 #### Environment for Project 6
-1. <tbd>
+1. "<tbd>"
 9. Install Pytorch:
     * [CPU]: `pip install torch torchvision torchaudio`
     * [GPU]: `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`.\
