@@ -22,13 +22,18 @@ Enter the following commands in a bash terminal:
 7. `python -m ipykernel install --user --name aialgotrading --display-name "ai-algo-trading"`
 
 #### Environment for Project 6
-1. `<tbd>`
+1. `cd AI-Algorithms-in-Trading`
+2. `conda create --name aitradinggpu python=3.6.3 -c conda-forge`
+3. `conda activate aitradinggpu`
+4. `python -m pip install --upgrade pip`
+5. `python -m pip install --upgrade wheel setuptools build`
+6. `python -m pip install -r requirements2.txt`
 9. Install Pytorch:
-    * [CPU]: `pip install torch torchvision torchaudio`
+    * [CPU]: `pip install torch==0.4.0 torchvision==0.2.1`
     * [GPU]: `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`.\
     Depending on your GPU and cudnn version a different pytorch version my be required. Please refer to 
     https://pytorch.org/get-started/locally/.
-10. `python -m ipykernel install --user --name <tbd> --display-name "<tbd>"`
+10. `python -m ipykernel install --user --name aitradinggpu --display-name "ai-trading-gpu"`
 
 ### Start a Jupyter Notebook
 1. Activate the appropriate environment by `conda activate <aialogtrading/tbd>`
