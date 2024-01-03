@@ -30,7 +30,7 @@ Enter the following commands in a bash terminal:
 6. `python -m pip install -r requirements2.txt`
 9. Install Pytorch:
     * [CPU]: `pip install torch==0.4.0 torchvision==0.2.1`
-    * [GPU]: `pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu117`.\
+    * [GPU]: `pip install torch torchvision --extra-index-url https://download.pytorch.org/whl/cu117`.\
     Depending on your GPU and cudnn version a different pytorch version my be required. Please refer to 
     https://pytorch.org/get-started/locally/.
 10. `python -m ipykernel install --user --name aitradinggpu --display-name "ai-trading-gpu"`
