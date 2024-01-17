@@ -36,7 +36,7 @@ Enter the following commands in a bash terminal:
 10. `python -m ipykernel install --user --name aitradinggpu --display-name "ai-trading-gpu"`
 
 ### Start a Jupyter Notebook
-1. Activate the appropriate environment by `conda activate <aialogtrading/tbd>`
+1. Activate the appropriate environment by `conda activate <aialogtrading/aitradinggpu>`
 2. Navigate to a project's folder, e.g. by `cd p5_...`
 3. Start the notebook by entering `jupyter-notebook` into the bash terminal.
 4. Copy one of the displayed URLs, e.g. 'http://127.0.0.1:8888/?token=78c...' in a browser tab.
