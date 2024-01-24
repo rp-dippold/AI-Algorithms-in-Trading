@@ -14,12 +14,12 @@ The Python environment created by the following steps works for projects 5, 7 an
 
 Enter the following commands in a bash terminal:
 1. `cd AI-Algorithms-in-Trading`
-2. `conda create --name aialgotrading python=3.6.3 -c conda-forge`
-3. `conda activate aialgotrading`
+2. `conda create --name aitrading_p7 python=3.6.3 -c conda-forge`
+3. `conda activate aitrading_p7`
 4. `python -m pip install --upgrade pip` 
 5. `python -m pip install --upgrade wheel setuptools build`
-6. `python -m pip install -r requirements.txt`
-7. `python -m ipykernel install --user --name aialgotrading --display-name "ai-algo-trading"`
+6. `python -m pip install -r requirements_p7.txt`
+7. `python -m ipykernel install --user --name aitrading_p7 --display-name "ai-trading-p7"`
 
 #### Environment for Project 6
 1. `cd AI-Algorithms-in-Trading`
